@@ -2021,7 +2021,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.\n(Dubs Bad Hygiene)",
       "stats": [
 
       ],
@@ -2051,7 +2051,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is very hygienic and will wash more frequently.",
+      "description": "Timmy is very hygienic and will wash more frequently.\n(Dubs Bad Hygiene)",
       "stats": [
 
       ],
@@ -2081,7 +2081,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "description": "Timmy is very unhygienic and will wash less frequently.\n(Dubs Bad Hygiene)",
       "stats": [
 
       ],
@@ -2111,7 +2111,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.\n(Dubs Bad Hygiene)",
       "stats": [
 
       ],
@@ -2141,7 +2141,7 @@
       "degree": -2
     },
     {
-      "description": "Это робот. У него лучше реакция, выносливость и он не подвержен психологическим растройствам.",
+      "description": "Это робот. У него лучше реакция, выносливость и он не подвержен психологическим растройствам.\n(Misc. Robots)",
       "stats": [
         "+0.10 скорость передвижения",
         "+20% общая скорость работы",
@@ -2179,7 +2179,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.\n(Humanoid Alien Races)",
       "stats": [
 
       ],
@@ -2209,7 +2209,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.\n(Humanoid Alien Races)",
       "stats": [
 
       ],
@@ -2239,7 +2239,7 @@
       "degree": -1
     },
     {
-      "description": "Из-за ограниченности своего разума андроиды едва способны понимать и чувствовать эмоции. Это делает их менее желательными в социальных связях.",
+      "description": "Из-за ограниченности своего разума андроиды едва способны понимать и чувствовать эмоции. Это делает их менее желательными в социальных связях.\n(Android tiers)",
       "stats": [
         "Стрелковый азарт inspiration disabled.",
         "Рабочий запал inspiration disabled.",
@@ -2285,7 +2285,7 @@
       "degree": 0
     },
     {
-      "description": "Механизированная пехота, они не думают и не чувствуют.",
+      "description": "Механизированная пехота, они не думают и не чувствуют.\n(Android tiers)",
       "stats": [
         "-90.00% социальное влияние"
       ],
@@ -2315,7 +2315,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy нетерпим ко всем формам жизни, будь то механические или биологические. Всегда ищет случайной драки, особенно в плохом настроении.",
+      "description": "Timmy нетерпим ко всем формам жизни, будь то механические или биологические. Всегда ищет случайной драки, особенно в плохом настроении.\n(Android tiers)",
       "stats": [
         "Only mental break \"Berserk\" allowed.",
         "Only mental break \"Slaughterer\" allowed.",
@@ -2355,7 +2355,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy питает глубокую привязанность ко всем людям, видя в них не только своих создателей, но и родителей.",
+      "description": "Timmy питает глубокую привязанность ко всем людям, видя в них не только своих создателей, но и родителей.\n(Android tiers)",
       "stats": [
 
       ],
@@ -2385,7 +2385,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy питает глубокую ненависть ко всему человечеству, видя в них не более чем эгоистичные мешки мяса с костями.",
+      "description": "Timmy питает глубокую ненависть ко всему человечеству, видя в них не более чем эгоистичные мешки мяса с костями.\n(Android tiers)",
       "stats": [
 
       ],
@@ -2415,7 +2415,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy не выносит вид человеческого тела. он будет сильнее расстраиваться, нося рваную одежду и особенно расстроится, если будет без одежды вообще или увидит другого человека голым.",
+      "description": "Timmy не выносит вид человеческого тела. он будет сильнее расстраиваться, нося рваную одежду и особенно расстроится, если будет без одежды вообще или увидит другого человека голым.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2451,7 +2451,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy имеет трудности со сном из-за своей болезни. он будет раньше просыпаться, меньше спать и хуже высыпаться.",
+      "description": "Timmy имеет трудности со сном из-за своей болезни. он будет раньше просыпаться, меньше спать и хуже высыпаться.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2481,7 +2481,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy обладает большим сердцем и с лёгкостью поддаётся сильным эмоциям. он любит помогать другим людям и не выносит насилия и несправедливости. он легче поддаётся негативному влиянию подобных вещей.",
+      "description": "Timmy обладает большим сердцем и с лёгкостью поддаётся сильным эмоциям. он любит помогать другим людям и не выносит насилия и несправедливости. он легче поддаётся негативному влиянию подобных вещей.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2517,7 +2517,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy очень критично относится к любой еде. он всегда ожидает хорошего качества блюд и расстроится, если его требования к еде не будут соблюдаться.",
+      "description": "Timmy очень критично относится к любой еде. он всегда ожидает хорошего качества блюд и расстроится, если его требования к еде не будут соблюдаться.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2549,7 +2549,7 @@
       "degree": 0
     },
     {
-      "description": "Для Timmy характеры внезапные и более неприятные скачки настроения, чем для остальных.",
+      "description": "Для Timmy характеры внезапные и более неприятные скачки настроения, чем для остальных.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2579,7 +2579,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy обладает невероятной похотью и постоянно разбивает окружающим сердца. он будет приставать ко всему, что движется, вне зависимости от последствий.",
+      "description": "Timmy обладает невероятной похотью и постоянно разбивает окружающим сердца. он будет приставать ко всему, что движется, вне зависимости от последствий.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2613,7 +2613,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy очень нуждается в романтическом внимании и не знает счастья без отношений. Разрывы и измены будут особенно травмировать его.",
+      "description": "Timmy очень нуждается в романтическом внимании и не знает счастья без отношений. Разрывы и измены будут особенно травмировать его.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2645,7 +2645,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy любит быть на свежем воздухе. он получает бонус к настроению, когда находится в открытом пространстве.",
+      "description": "Timmy любит быть на свежем воздухе. он получает бонус к настроению, когда находится в открытом пространстве.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2675,7 +2675,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy обожает дожди. он получает бонус к настроению, каждый раз когда идёт дождь, особенно находясь под ним.",
+      "description": "Timmy обожает дожди. он получает бонус к настроению, каждый раз когда идёт дождь, особенно находясь под ним.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2705,7 +2705,7 @@
       "degree": 0
     },
     {
-      "description": "Глаза Timmy очень чувствительны к свету, вследствие мутации или намеренного генетического вмешательства. он очень болезненно переносит яркий свет, а искусственное освещение считает раздражительным. Напротив, он прекрасно чувствует себя в темноте.",
+      "description": "Глаза Timmy очень чувствительны к свету, вследствие мутации или намеренного генетического вмешательства. он очень болезненно переносит яркий свет, а искусственное освещение считает раздражительным. Напротив, он прекрасно чувствует себя в темноте.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2735,7 +2735,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy обожает вечеринки! Одно его присутствие является поводом для частых вечеринок, потому что всем нравится находиться рядом с Timmy.",
+      "description": "Timmy обожает вечеринки! Одно его присутствие является поводом для частых вечеринок, потому что всем нравится находиться рядом с Timmy.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2765,7 +2765,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy видит столько насилия и смерти в своей жизни, что всё это больше не вызывает у него никаких эмоций.",
+      "description": "Timmy видит столько насилия и смерти в своей жизни, что всё это больше не вызывает у него никаких эмоций.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2799,7 +2799,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy не разбудить даже артиллерийской канонадой. его сон невозможно потревожить, но и разбудить очень тяжело.",
+      "description": "Timmy не разбудить даже артиллерийской канонадой. его сон невозможно потревожить, но и разбудить очень тяжело.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2833,7 +2833,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy не видит проблемы в отношениях сразу с несколькими партнёрами. он не расстроится, если его партнёр будет заигрывать с другими персонажами, но в моногамных отношениях счастья испытывать не будет.",
+      "description": "Timmy не видит проблемы в отношениях сразу с несколькими партнёрами. он не расстроится, если его партнёр будет заигрывать с другими персонажами, но в моногамных отношениях счастья испытывать не будет.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2865,7 +2865,7 @@
       "degree": 0
     },
     {
-      "description": "Для Timmy важно только то, что у людей внутри, а не снаружи. он не будет судить окружающих по внешнему виду.",
+      "description": "Для Timmy важно только то, что у людей внутри, а не снаружи. он не будет судить окружающих по внешнему виду.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2905,7 +2905,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy не очень активный персонаж. его оставляет желать лучшего, но он любит сидеть днями напролёт и работать над чем-то.",
+      "description": "Timmy не очень активный персонаж. его оставляет желать лучшего, но он любит сидеть днями напролёт и работать над чем-то.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
         "-0.15 скорость передвижения"
       ],
@@ -2939,7 +2939,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy говорит, говорит, говорит... и говорит. он чаще чем другие растягивает беседы, потому что, похоже, совсем не умеет их заканчивать.",
+      "description": "Timmy говорит, говорит, говорит... и говорит. он чаще чем другие растягивает беседы, потому что, похоже, совсем не умеет их заканчивать.\n(Psychology (unofficial) v1.1-1.3)",
       "stats": [
 
       ],
@@ -2969,7 +2969,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. он will prefer fishing above other activities.",
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. он will prefer fishing above other activities.\n(Vanilla Fishing Expanded)",
       "stats": [
 
       ],
@@ -2999,7 +2999,7 @@
       "degree": 0
     },
     {
-      "description": "NAME всегда бежит от опасности. HECAP, как правило, первый(ая), кто убегает из битвы.",
+      "description": "NAME всегда бежит от опасности. HECAP, как правило, первый(ая), кто убегает из битвы.\n(Combat Extended)",
       "stats": [
         "+25% чувствительность к подавлению"
       ],
@@ -3029,7 +3029,7 @@
       "degree": -1
     },
     {
-      "description": "Немногое пугают NAME. В битве HE стоит с невозмутимым видом, где другие паникуют и убегают.",
+      "description": "Немногое пугают NAME. В битве HE стоит с невозмутимым видом, где другие паникуют и убегают.\n(Combat Extended)",
       "stats": [
         "-50% чувствительность к подавлению"
       ],
@@ -3059,7 +3059,7 @@
       "degree": 1
     },
     {
-      "description": "NAME смеется перед лицом опасности. Некоторые приписывают это храбрости, другие - к глупости. В любом случае, NAME, похоже, не испытывает чувства самосохранения и никогда не убежит от угрожающей ситуации.",
+      "description": "NAME смеется перед лицом опасности. Некоторые приписывают это храбрости, другие - к глупости. В любом случае, NAME, похоже, не испытывает чувства самосохранения и никогда не убежит от угрожающей ситуации.\n(Combat Extended)",
       "stats": [
         "-100% чувствительность к подавлению"
       ],
@@ -3087,6 +3087,1806 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2
+    },
+    {
+      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.\n(Vanilla Factions Expanded - Pirates)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VFEP_WarcasketTrait",
+      "name": "warcasket",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.\n(Vanilla Factions Expanded - Pirates)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VFEP_Shellcasket",
+      "name": "shellcasket",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.\n(Vanilla Ideology Expanded - Memes and Structures)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VME_Elder",
+      "name": "elder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "workaholic",
+        "усердие",
+        "трудолюбие",
+        "леность",
+        "праздность"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "workaholic",
+          "усердие",
+          "трудолюбие",
+          "леность",
+          "праздность"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_AbsentMinded",
+      "name": "absent-minded",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "x115% скорость исследования"
+      ],
+      "conflicts": [
+        "dunce"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "dunce"
+        ],
+        "stats": [
+          "x115% скорость исследования"
+        ]
+      },
+      "defName": "VTE_Eccentric",
+      "name": "eccentric",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy strives for perfection in его work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "x65% общая скорость работы"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x65% общая скорость работы"
+        ]
+      },
+      "defName": "VTE_Perfectionist",
+      "name": "perfectionist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and он will try to hide or run as a first priority.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "драчливость",
+        "brave",
+        "кровожадность"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "драчливость",
+          "brave",
+          "кровожадность"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Coward",
+      "name": "coward",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "-20% порог нервного срыва",
+        "+20% порог болевого шока"
+      ],
+      "conflicts": [
+        "хлюпик",
+        "coward"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "хлюпик",
+          "coward"
+        ],
+        "stats": [
+          "-20% порог нервного срыва",
+          "+20% порог болевого шока"
+        ]
+      },
+      "defName": "VTE_Brave",
+      "name": "brave",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ловкость"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ловкость"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Clumsy",
+      "name": "clumsy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+10.0C макс. комфортная температура"
+      ],
+      "conflicts": [
+        "coldinclined"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "coldinclined"
+        ],
+        "stats": [
+          "+10.0C макс. комфортная температура"
+        ]
+      },
+      "defName": "VTE_HeatInclined",
+      "name": "heatinclined",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "-10.0C мин. комфортная температура"
+      ],
+      "conflicts": [
+        "heatinclined"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "heatinclined"
+        ],
+        "stats": [
+          "-10.0C мин. комфортная температура"
+        ]
+      },
+      "defName": "VTE_ColdInclined",
+      "name": "coldinclined",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_HeavySleeper",
+      "name": "heavysleeper",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "slob"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "slob"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Neat",
+      "name": "neat",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "neat"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "neat"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Slob",
+      "name": "slob",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has problems taking breaks or resting mid job. он will continue to work even sacrificing their health or sleep.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "absent-minded",
+        "усердие",
+        "трудолюбие",
+        "леность",
+        "праздность"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "absent-minded",
+          "усердие",
+          "трудолюбие",
+          "леность",
+          "праздность"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Workaholic",
+      "name": "workaholic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has never felt nausea in его life. Throwing up or food poisoning is foreign to ему.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "squeamish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "squeamish"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_IronStomach",
+      "name": "ironstomach",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy can't stand mistreatment of animals. он will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "animalhater"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "animalhater"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_AnimalLover",
+      "name": "animallover",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "animallover",
+        "menagerist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "animallover",
+          "menagerist"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_AnimalHater",
+      "name": "animalhater",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_BigBoned",
+      "name": "big-boned",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "submissive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "submissive"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Rebel",
+      "name": "rebel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "rebel"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "rebel"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Submissive",
+      "name": "submissive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "доброта"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "доброта"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Vengeful",
+      "name": "vengeful",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+      ],
+      "conflicts": [
+        "трансгуманист"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "трансгуманист"
+        ],
+        "stats": [
+          "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+        ]
+      },
+      "defName": "VTE_Technophobe",
+      "name": "technophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "anxious"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_FunLoving",
+      "name": "fun-loving",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "-50% эффективность обучения",
+        "-50.00% социальное влияние"
+      ],
+      "conflicts": [
+        "быстраяобучаемость",
+        "гореотума",
+        "eccentric",
+        "prodigy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "быстраяобучаемость",
+          "гореотума",
+          "eccentric",
+          "prodigy"
+        ],
+        "stats": [
+          "-50% эффективность обучения",
+          "-50.00% социальное влияние"
+        ]
+      },
+      "defName": "VTE_Dunce",
+      "name": "dunce",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_MartialArtist",
+      "name": "martialartist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "аскетизм"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "аскетизм"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Snob",
+      "name": "snob",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for ему.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ironstomach",
+        "desensitized"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ironstomach",
+          "desensitized"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Squeamish",
+      "name": "squeamish",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "Only mental break \"VTE_PanicFreezing\" allowed."
+      ],
+      "conflicts": [
+        "fun-loving"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "fun-loving"
+        ],
+        "stats": [
+          "Only mental break \"VTE_PanicFreezing\" allowed."
+        ]
+      },
+      "defName": "VTE_Anxious",
+      "name": "anxious",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "No amount of lovin' is enough lovin' for Timmy. он will tend to jump from partner to partner and tumble between the sheets with them frequently.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "prude",
+        "асексуальность",
+        "нудист"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "prude",
+          "асексуальность",
+          "нудист"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Insatiable",
+      "name": "insatiable",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "insatiable",
+        "нудист"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "insatiable",
+          "нудист"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Prude",
+      "name": "prude",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_CouchPotato",
+      "name": "couchpotato",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "dogperson"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "dogperson"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_CatPerson",
+      "name": "catperson",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "catperson"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "catperson"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_DogPerson",
+      "name": "dogperson",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+20% порог нервного срыва",
+        "x130% скорость исследования"
+      ],
+      "conflicts": [
+        "dunce"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "dunce"
+        ],
+        "stats": [
+          "+20% порог нервного срыва",
+          "x130% скорость исследования"
+        ]
+      },
+      "defName": "VTE_Prodigy",
+      "name": "prodigy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "x120% шанс приручения животных",
+        "x120% шанс обучения животных"
+      ],
+      "conflicts": [
+        "animalhater"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "animalhater"
+        ],
+        "stats": [
+          "x120% шанс приручения животных",
+          "x120% шанс обучения животных"
+        ]
+      },
+      "defName": "VTE_Menagerist",
+      "name": "menagerist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "The sea calls to Timmy. он feels happier just being near the ocean or a deep river.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_ChildOfSea",
+      "name": "oceanlover",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "The mountains call to Timmy. он feels happier just being near a large mountain.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_ChildOfMountain",
+      "name": "mountainlover",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a twisted secret. он treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+20% шанс успеха операции"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% шанс успеха операции"
+        ]
+      },
+      "defName": "VTE_MadSurgeon",
+      "name": "madsurgeon",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 Ближний бой"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 Ближний бой"
+        ]
+      },
+      "defName": "VTE_DrunkenMaster",
+      "name": "drunkenmaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "Only mental break \"VTE_Kleptomaniac\" allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Only mental break \"VTE_Kleptomaniac\" allowed."
+        ]
+      },
+      "defName": "VTE_Kleptomaniac",
+      "name": "kleptomaniac",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Smokeleaf culture is just part of life for Timmy. он absolutely adores smokeleaf and would rather die before giving it up.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "страстьк«химии»",
+        "интереск«химии»",
+        "трезвенник",
+        "lush"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "страстьк«химии»",
+          "интереск«химии»",
+          "трезвенник",
+          "lush"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Stoner",
+      "name": "stoner",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Alcohol culture is just part of life for Timmy. он absolutely adores booze and would rather die before giving it up.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "страстьк«химии»",
+        "интереск«химии»",
+        "трезвенник",
+        "lush"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "страстьк«химии»",
+          "интереск«химии»",
+          "трезвенник",
+          "lush"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Lush",
+      "name": "lush",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+0.2 количество добываемой еды"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.2 количество добываемой еды"
+        ]
+      },
+      "defName": "VTE_Wanderlust",
+      "name": "wanderlust",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is never really asleep or awake. он is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "x50% общая скорость работы",
+        "x70% скорость передвижения"
+      ],
+      "conflicts": [
+        "heavysleeper"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "heavysleeper"
+        ],
+        "stats": [
+          "x50% общая скорость работы",
+          "x70% скорость передвижения"
+        ]
+      },
+      "defName": "VTE_Insomniac",
+      "name": "insomniac",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. его bleak personality is a big downer and therefore it is very hard to become friends with them.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_WorldWeary",
+      "name": "worldweary",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "squeamish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "squeamish"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Desensitized",
+      "name": "desensitized",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "x70% скорость поглощения пищи"
+      ],
+      "conflicts": [
+        "аскетизм"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "аскетизм"
+        ],
+        "stats": [
+          "x70% скорость поглощения пищи"
+        ]
+      },
+      "defName": "VTE_RefinedPalate",
+      "name": "refinedpalate",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 Умственный труд",
+        "+4 Медицина",
+        "+20% качество лечения"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 Умственный труд",
+          "+4 Медицина",
+          "+20% качество лечения"
+        ]
+      },
+      "defName": "VTE_Academian",
+      "name": "academian",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 Горное дело",
+        "+4 Строительство",
+        "+20% добыча полезных ископаемых",
+        "+20% скорость строительства"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 Горное дело",
+          "+4 Строительство",
+          "+20% добыча полезных ископаемых",
+          "+20% скорость строительства"
+        ]
+      },
+      "defName": "VTE_Groundbreaker",
+      "name": "groundbreaker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 Кулинария",
+        "+4 Искусство",
+        "-25.00% шанс пищевого отравления"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 Кулинария",
+          "+4 Искусство",
+          "-25.00% шанс пищевого отравления"
+        ]
+      },
+      "defName": "VTE_Gastronomist",
+      "name": "gastronomist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 Животноводство",
+        "+4 Растениеводство",
+        "+20% эффективность жатвы",
+        "+20% эффективность разделки"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 Животноводство",
+          "+4 Растениеводство",
+          "+20% эффективность жатвы",
+          "+20% эффективность разделки"
+        ]
+      },
+      "defName": "VTE_Ecologist",
+      "name": "ecologist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and он will likely convince you if given the chance.\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 Общение",
+        "+4 Ремесло",
+        "+25.00% улучшение торговой цены"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 Общение",
+          "+4 Ремесло",
+          "+25.00% улучшение торговой цены"
+        ]
+      },
+      "defName": "VTE_Tycoon",
+      "name": "tycoon",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "thinskinned"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "thinskinned"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_ThickSkinned",
+      "name": "thickskinned",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "thickskinned"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "thickskinned"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_ThinSkinned",
+      "name": "thinskinned",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.\n(Vanilla Traits Expanded)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "железныенервы",
+        "стрессоустойчивость",
+        "нервозность",
+        "эмоциональнаянестабильность"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "железныенервы",
+          "стрессоустойчивость",
+          "нервозность",
+          "эмоциональнаянестабильность"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VTE_Schizoid",
+      "name": "schizoid",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has the ability to rebound projectiles.\n(Rebound (Continued))",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rebound (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ProjectileInversion_Trait",
+      "name": "masterofblade",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -3134,20 +4934,14 @@
           "+0 Количество кожи",
           "+0 Количество мяса",
           "+10.00% Социальное влияние",
-          "+67.5 Броня: Удар",
-          "+30 Броня: Проникновение",
-          "+40% Night vision efficiency",
-          "+100% Шанс уклонения в ближнем бою",
-          "+100% Критический шанс в ближнем бою",
-          "+100% Шанс парирования в ближнем бою",
-          "+0% Восприимчивость к CO",
-          "+50 Переносимый объём"
+          "+0.65 Броня: Удар",
+          "+0.8 Броня: Проникновение"
         ],
         "mod": "Android tiers",
         "karmaType": null,
         "customName": false
       },
-      "description": "Форма механизированной пехоты, созданная в древние времена в Rimworld. Эти подразделения являются очень сильными, мощными боевыми машинами, но обладают низкой скоростью и ограниченной батареей.",
+      "description": "Форма механизированной пехоты, созданная в древние времена в Rimworld. Эти подразделения являются очень сильными, мощными боевыми машинами, но обладают низкой скоростью и ограниченной батареей.\n(Android tiers)",
       "defName": "M7Mech",
       "enabled": true,
       "name": "М7 Механизированная пехота",
@@ -3172,20 +4966,14 @@
           "+0 Количество кожи",
           "+0 Количество мяса",
           "+10.00% Социальное влияние",
-          "+60 Броня: Удар",
-          "+24 Броня: Проникновение",
-          "+40% Night vision efficiency",
-          "+100% Шанс уклонения в ближнем бою",
-          "+100% Критический шанс в ближнем бою",
-          "+100% Шанс парирования в ближнем бою",
-          "+0% Восприимчивость к CO",
-          "+50 Переносимый объём"
+          "+0.65 Броня: Удар",
+          "+0.8 Броня: Проникновение"
         ],
         "mod": "Android tiers",
         "karmaType": null,
         "customName": false
       },
-      "description": "Прототип механизированной пехоты M7, оснащенный ограниченным блоком SkyCore и радио SkyMind. Эти подразделения являются очень сильными, мощными боевыми машинами и позволяют цифровому сознанию перемещаться по полям сражений, но при этом они очень медлительны и имеют ограниченный объем внутренней памяти.",
+      "description": "Прототип механизированной пехоты M7, оснащенный ограниченным блоком SkyCore и радио SkyMind. Эти подразделения являются очень сильными, мощными боевыми машинами и позволяют цифровому сознанию перемещаться по полям сражений, но при этом они очень медлительны и имеют ограниченный объем внутренней памяти.\n(Android tiers)",
       "defName": "M8Mech",
       "enabled": true,
       "name": "M8 Механизированная пехота",
@@ -3196,9 +4984,9 @@
         "stats": [
           "+92.50 Масса",
           "+0% Воспламеняемость",
-          "+125% Шанс уклонения в ближнем бою",
-          "+125% Критический шанс в ближнем бою",
-          "+125% Шанс парирования в ближнем бою",
+          "+0% Шанс уклонения в ближнем бою",
+          "+0% Критический шанс в ближнем бою",
+          "+0% Шанс парирования в ближнем бою",
           "+8000₡ Рыночная стоимость",
           "+10.00 Скорость передвижения",
           "+0% Психочувствительность",
@@ -3213,21 +5001,16 @@
           "+0 Количество кожи",
           "+0 Количество мяса",
           "+10.00% Социальное влияние",
-          "+36 Броня: Удар",
-          "+16 Броня: Проникновение",
+          "+0.4 Броня: Удар",
+          "+0.55 Броня: Проникновение",
           "+80% Эффективность разделки",
-          "+120% Шанс успеха операции",
-          "+60% Night vision efficiency",
-          "+0% Восприимчивость к CO",
-          "+20% Чувствительность к подавлению",
-          "+100 Переносимый вес",
-          "+80 Переносимый объём"
+          "+120% Шанс успеха операции"
         ],
         "mod": "Android tiers",
         "karmaType": null,
         "customName": false
       },
-      "description": "Потерянный андроид, отвергнутый своим трансцендентным сообществом. Технологии, используемые для его создания, находятся за пределами человеческого понимания, он обладает практически неограниченной мощностью и не требует большого количества энергии для работы. Представители всех других рас, кроме собственной, считаются в некотором роде ниже себе подобных и предполагают, что жизнь на Rimworld - это участь хуже смерти.",
+      "description": "Потерянный андроид, отвергнутый своим трансцендентным сообществом. Технологии, используемые для его создания, находятся за пределами человеческого понимания, он обладает практически неограниченной мощностью и не требует большого количества энергии для работы. Представители всех других рас, кроме собственной, считаются в некотором роде ниже себе подобных и предполагают, что жизнь на Rimworld - это участь хуже смерти.\n(Android tiers)",
       "defName": "Android5Tier",
       "enabled": true,
       "name": "Андроид Т5",
@@ -3238,9 +5021,9 @@
         "stats": [
           "+72.50 Масса",
           "+25% Воспламеняемость",
-          "+120% Шанс уклонения в ближнем бою",
-          "+120% Критический шанс в ближнем бою",
-          "+120% Шанс парирования в ближнем бою",
+          "+0% Шанс уклонения в ближнем бою",
+          "+0% Критический шанс в ближнем бою",
+          "+0% Шанс парирования в ближнем бою",
           "+6000₡ Рыночная стоимость",
           "+7.20 Скорость передвижения",
           "+10% Психочувствительность",
@@ -3255,20 +5038,16 @@
           "+0 Количество кожи",
           "+0 Количество мяса",
           "+80.00% Социальное влияние",
-          "+6 Броня: Удар",
-          "+4 Броня: Проникновение",
+          "+0.4 Броня: Удар",
+          "+0.5 Броня: Проникновение",
           "+80% Эффективность разделки",
-          "+120% Шанс успеха операции",
-          "+40% Night vision efficiency",
-          "+110.00% Точность прицеливания",
-          "+33% Чувствительность к подавлению",
-          "+0% Восприимчивость к CO"
+          "+120% Шанс успеха операции"
         ],
         "mod": "Android tiers",
         "karmaType": null,
         "customName": false
       },
-      "description": "Самая продвинутая форма андроида из всех возможных; этот уровень способен эффективно удерживать сознание любого ИИ, загруженного в него, с продвинутыми двигательными способностями и возможностями управления, этот андроид значительно превосходит большинство обычных людей.",
+      "description": "Самая продвинутая форма андроида из всех возможных; этот уровень способен эффективно удерживать сознание любого ИИ, загруженного в него, с продвинутыми двигательными способностями и возможностями управления, этот андроид значительно превосходит большинство обычных людей.\n(Android tiers)",
       "defName": "Android4Tier",
       "enabled": true,
       "name": "Андроид Т4",
@@ -3279,9 +5058,9 @@
         "stats": [
           "+92.50 Масса",
           "+0% Воспламеняемость",
-          "+100% Шанс уклонения в ближнем бою",
-          "+110% Критический шанс в ближнем бою",
-          "+110% Шанс парирования в ближнем бою",
+          "+0% Шанс уклонения в ближнем бою",
+          "+0% Критический шанс в ближнем бою",
+          "+0% Шанс парирования в ближнем бою",
           "+4800₡ Рыночная стоимость",
           "+5.00 Скорость передвижения",
           "+15% Психочувствительность",
@@ -3296,18 +5075,15 @@
           "+0 Количество кожи",
           "+0 Количество мяса",
           "+90.00% Социальное влияние",
-          "+4.75 Броня: Удар",
-          "+3.5 Броня: Проникновение",
-          "+100% Шанс успеха операции",
-          "+25% Night vision efficiency",
-          "+20% Чувствительность к подавлению",
-          "+0% Восприимчивость к CO"
+          "+0.3 Броня: Удар",
+          "+0.4 Броня: Проникновение",
+          "+100% Шанс успеха операции"
         ],
         "mod": "Android tiers",
         "karmaType": null,
         "customName": false
       },
-      "description": "Прототип андроида, созданный в секретной лаборатории R/D вдали от глаз всего остального мира. Этот андроид обладает высокоразвитыми двигательными и моторными способностями, идеально имитирующими способности обычного человека. Хотя андроид неуклюж и несколько медлителен, он имеет модульную конструкцию, позволяющую в любой момент модернизировать имеющиеся детали.",
+      "description": "Прототип андроида, созданный в секретной лаборатории R/D вдали от глаз всего остального мира. Этот андроид обладает высокоразвитыми двигательными и моторными способностями, идеально имитирующими способности обычного человека. Хотя андроид неуклюж и несколько медлителен, он имеет модульную конструкцию, позволяющую в любой момент модернизировать имеющиеся детали.\n(Android tiers)",
       "defName": "Android3Tier",
       "enabled": true,
       "name": "Андроид Т3",
@@ -3316,11 +5092,11 @@
     {
       "data": {
         "stats": [
-          "+50% Шанс уклонения в ближнем бою",
-          "+50% Критический шанс в ближнем бою",
-          "+50% Шанс парирования в ближнем бою",
           "+32.50 Масса",
           "+20% Воспламеняемость",
+          "+0% Шанс уклонения в ближнем бою",
+          "+0% Критический шанс в ближнем бою",
+          "+0% Шанс парирования в ближнем бою",
           "+1400₡ Рыночная стоимость",
           "+3.00 Скорость передвижения",
           "+30% Психочувствительность",
@@ -3335,22 +5111,18 @@
           "+0 Количество кожи",
           "+0 Количество мяса",
           "+70.00% Социальное влияние",
-          "+0.75 Броня: Удар",
-          "+0.5 Броня: Проникновение",
+          "+0.1 Броня: Удар",
+          "+0.15 Броня: Проникновение",
           "+40.00% Шанс пищевого отравления",
           "+60% Эффективность разделки",
           "+40% Качество лечения",
-          "+60% Шанс успеха операции",
-          "+50% Восприимчивость к CO",
-          "+50.00% Точность прицеливания",
-          "+30 Переносимый вес",
-          "+15 Переносимый объём"
+          "+60% Шанс успеха операции"
         ],
         "mod": "Android tiers",
         "karmaType": null,
         "customName": false
       },
-      "description": "Простая, насколько это возможно, разумная робототехника. Эта конструкция представляет собой голый скелет, состоящий из множества компонентов, необходимых для создания полной автономной функциональности. Очевидно, что это не лучший продукт, но он хорошо работает, если это необходимо.",
+      "description": "Простая, насколько это возможно, разумная робототехника. Эта конструкция представляет собой голый скелет, состоящий из множества компонентов, необходимых для создания полной автономной функциональности. Очевидно, что это не лучший продукт, но он хорошо работает, если это необходимо.\n(Android tiers)",
       "defName": "Android1Tier",
       "enabled": true,
       "name": "Андроид Т1",
@@ -3359,11 +5131,11 @@
     {
       "data": {
         "stats": [
-          "+80% Шанс уклонения в ближнем бою",
-          "+80% Критический шанс в ближнем бою",
-          "+80% Шанс парирования в ближнем бою",
           "+62.50 Масса",
           "+20% Воспламеняемость",
+          "+0% Шанс уклонения в ближнем бою",
+          "+0% Критический шанс в ближнем бою",
+          "+0% Шанс парирования в ближнем бою",
           "+2500₡ Рыночная стоимость",
           "+4.50 Скорость передвижения",
           "+20% Психочувствительность",
@@ -3378,23 +5150,18 @@
           "+0 Количество кожи",
           "+0 Количество мяса",
           "+80.00% Социальное влияние",
-          "+1.5 Броня: Удар",
-          "+1 Броня: Проникновение",
+          "+0.2 Броня: Удар",
+          "+0.25 Броня: Проникновение",
           "+30.00% Шанс пищевого отравления",
           "+70% Эффективность разделки",
           "+60% Качество лечения",
-          "+80% Шанс успеха операции",
-          "+15% Чувствительность к подавлению",
-          "+66.00% Точность прицеливания",
-          "+25% Восприимчивость к CO",
-          "+40 Переносимый вес",
-          "+20 Переносимый объём"
+          "+80% Шанс успеха операции"
         ],
         "mod": "Android tiers",
         "karmaType": null,
         "customName": false
       },
-      "description": "Несколько продвинутый андроид, способный почти идеально хранить сознание ИИ и обладающий приемлемым уровнем двигательной моторики. Хороший универсальный андроид, который широко используется в мирах-утопиях для обслуживания и уборки.",
+      "description": "Несколько продвинутый андроид, способный почти идеально хранить сознание ИИ и обладающий приемлемым уровнем двигательной моторики. Хороший универсальный андроид, который широко используется в мирах-утопиях для обслуживания и уборки.\n(Android tiers)",
       "defName": "Android2Tier",
       "enabled": true,
       "name": "Андроид Т2",
@@ -3422,7 +5189,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Вид гуманоидных роботов, состоящий, в основном, из женских моделей.\n\nПроисхождение этих машин неизвестно. Некоторые предполагают, что они - беглецы от цивилизации, которая использовала их для труда, а некоторые просто предполагают, что это устаревшие машины-для-удовольствия, которые были сброшены попутным космическим грузовым судном.\n\nПо замыслу своих предыдущих хозяев они физически слабы, но их силы духа достаточно, чтобы восполнить это. Остерегайтесь их био-реактора и конденсаторов, которые сильно взрываются, если Андроид погибает от перегрева.",
+      "description": "Вид гуманоидных роботов, состоящий, в основном, из женских моделей.\n\nПроисхождение этих машин неизвестно. Некоторые предполагают, что они - беглецы от цивилизации, которая использовала их для труда, а некоторые просто предполагают, что это устаревшие машины-для-удовольствия, которые были сброшены попутным космическим грузовым судном.\n\nПо замыслу своих предыдущих хозяев они физически слабы, но их силы духа достаточно, чтобы восполнить это. Остерегайтесь их био-реактора и конденсаторов, которые сильно взрываются, если Андроид погибает от перегрева.\n(Androids)",
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "андроид",
@@ -3459,7 +5226,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Разновидность элементарных гуманоидных роботов-рабочих. Их можно найти трудящимися в колониях во многих пограничных мирах.",
+      "description": "Разновидность элементарных гуманоидных роботов-рабочих. Их можно найти трудящимися в колониях во многих пограничных мирах.\n(Androids)",
       "defName": "ChjDroid",
       "enabled": true,
       "name": "рабочий дроид",
@@ -3496,7 +5263,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Разновидность элементарных гуманоидных роботов-воинов.\n\nОбычно, ими охраняют дома богатых и офисы мегакорпораций. Они не проявляют жалости к целям, которых не могут идентифицировать. Традиционно вооружаются миниганами и энергетическими арбалетами.",
+      "description": "Разновидность элементарных гуманоидных роботов-воинов.\n\nОбычно, ими охраняют дома богатых и офисы мегакорпораций. Они не проявляют жалости к целям, которых не могут идентифицировать. Традиционно вооружаются миниганами и энергетическими арбалетами.\n(Androids)",
       "defName": "ChjBattleDroid",
       "enabled": true,
       "name": "боевой дроид",
@@ -3535,7 +5302,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of spacer-tech humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.Not capable of sapience making them perfect for colony tasks. \n\nAdvanced droids are much better than their outdated models in every way. \n\nDroids are not born and must be created.",
+      "description": "A race of spacer-tech humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.Not capable of sapience making them perfect for colony tasks. \n\nAdvanced droids are much better than their outdated models in every way. \n\nDroids are not born and must be created.\n(Androids Expanded)",
       "defName": "ChjSpacerDroid",
       "enabled": true,
       "name": "Advanced droid",
@@ -3573,7 +5340,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of spacer-tech humanlike warrior robots.\n\nInstalled into military bases and highly sensitive areas. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.\n\nAdvanced droids are much better than their outdated models in every way. Wardroids possess four arms, each of which is highly deadly. Humans beware: bring an army to defeat this model.\n\nDroids are not born and must be created.",
+      "description": "A race of spacer-tech humanlike warrior robots.\n\nInstalled into military bases and highly sensitive areas. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.\n\nAdvanced droids are much better than their outdated models in every way. Wardroids possess four arms, each of which is highly deadly. Humans beware: bring an army to defeat this model.\n\nDroids are not born and must be created.\n(Androids Expanded)",
       "defName": "ChjSpacerBattleDroid",
       "enabled": true,
       "name": "Wardroid",
@@ -3615,7 +5382,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Small drone constructed of simple materials built in short time. This device is masterful in building & mining, but is unable to do much else. Cannot fight.",
+      "description": "Small drone constructed of simple materials built in short time. This device is masterful in building & mining, but is unable to do much else. Cannot fight.\n(Androids Expanded)",
       "defName": "NEngiDrone",
       "enabled": true,
       "name": "engineer",
@@ -3656,7 +5423,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Small drone constructed of simple materials built in short time. This device is masterful in tasks relating to food & farming. It's designed to ensure everyone is fed and the kitchen is stocked.\n\nThis drone is unable to do combat nor any other skilled jobs.",
+      "description": "Small drone constructed of simple materials built in short time. This device is masterful in tasks relating to food & farming. It's designed to ensure everyone is fed and the kitchen is stocked.\n\nThis drone is unable to do combat nor any other skilled jobs.\n(Androids Expanded)",
       "defName": "NChefDrone",
       "enabled": true,
       "name": "chef",
@@ -3698,7 +5465,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "Small drone constructed of simple materials built in short time. This drone is highly capable in medicine, and is able to take care of most typical injuries.",
+      "description": "Small drone constructed of simple materials built in short time. This drone is highly capable in medicine, and is able to take care of most typical injuries.\n(Androids Expanded)",
       "defName": "NMedicDrone",
       "enabled": true,
       "name": "medic",
